@@ -16,6 +16,7 @@ grid on;
 title("$$x(t) = \sum_{n=-3}^3g(t + nT)$$", "Interpreter", "latex");
 xlabel("t"); ylabel("x(t)");
 
+aslögjalskjglasgj
 
 %%
 i = randi([-10,10], 1, 10e6);
