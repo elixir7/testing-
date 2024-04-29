@@ -11,6 +11,8 @@ for n = -3:3
     x(1,:) = x(1,:) + g(t + n*T);
 end
 
+print("swag")
+
 plot(t, x);
 grid on;
 title("$$x(t) = \sum_{n=-3}^3g(t + nT)$$", "Interpreter", "latex");
