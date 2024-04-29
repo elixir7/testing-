@@ -18,6 +18,8 @@ xlabel("t"); ylabel("x(t)");
 
 aslögjalskjglasgj
 
+asdasdasdasd
+
 %%
 i = randi([-10,10], 1, 10e6);
 
